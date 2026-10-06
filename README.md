@@ -6,4 +6,3 @@ Learning GitHub remotes.
 Practicing branch workflow.
 Change from main branch.
 Change from conflict-practice branch.
-Testing git revert
